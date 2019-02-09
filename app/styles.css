@@ -1,0 +1,28 @@
+body {
+  background-color: deepskyblue;
+}
+input {
+  margin: 0px 0 10px 0;
+  width: 250px;
+  box-sizing: border-box;
+}
+label input {
+  width: 30px;
+  display: inline;
+}
+label p {
+  display: inline;
+}
+.auth {
+  padding: 400px 800px;
+}
+.account {
+  padding: 50px 100px;
+}
+form {
+  width: 250px;
+}
+form button {
+  float: right;
+}
+/*# sourceMappingURL=styles.css.map */
